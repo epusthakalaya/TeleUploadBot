@@ -7,7 +7,7 @@ BOTTOKEN = os.environ.get("BOTTOKEN", "")
 APIID = int(os.environ.get("APIID", 12345))
 APIHASH = os.environ.get("APIHASH", "lelhutto0")
 DOWNLOADPATH = os.environ.get("DOWNLOADPATH", "Downloads/")
-USERNAME = ""
+USERNAME = os.environ.get("USERNAME", "")
 
 """
 If you using VPS, first fork repo, remove upper strings and edit like this:
