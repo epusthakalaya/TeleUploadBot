@@ -31,7 +31,7 @@
     },
     "DOWNLOADPATH": {
       "description": "Download path of bot (don't change this value)",
-      "value": "",
+      "value": "Downloads/",
       "required": true
     }
   },
