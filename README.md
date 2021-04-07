@@ -1,5 +1,5 @@
 ## Tele Upload Bot
-#### A simple telegram bot made using telethon library.
+#### A simple telegram bot made using telethon library!
 
 ### Features
 
@@ -9,11 +9,11 @@
 
 - [x] TmpNinja Uploader
 
-### Install
-#### Easy:
+### Host Bot
+#### Deploy to Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/TeleUploadBot)
-#### Hard:
+#### Deploy to VPS:
 
 ```
 git clone https://github.com/ImJanindu/TeleUploadBot
