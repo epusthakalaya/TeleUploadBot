@@ -1,0 +1,41 @@
+{
+  "name": "Tele Upload Bot",
+  "description": "A simple url upload and file to link bot made using telethon.",
+  "logo": "https://i.hizliresim.com/L9wftc.png",
+  "keywords": [
+    "telegram",
+    "uploader"
+  ],
+  "repository": "https://github.com/ImJanindu/TeleUploadBot",
+  "website": "https://github.com/ImJanindu/TeleUploadBot",
+  "success_url": "https://t.me/JETeleUploadBot",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable environment variables",
+      "value": "ANYTHING"
+    },
+    "APIID": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": "",
+      "required": true
+    },
+    "APIHASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": "",
+      "required": true
+    },
+    "BOTTOKEN": {
+      "description": "Get this token from @BotFather",
+      "value": "",
+      "required": true
+    },
+    "DOWNLOADPATH": {
+      "description": "Download path of bot (don't change this value)",
+      "value": "",
+      "required": true
+    }
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
