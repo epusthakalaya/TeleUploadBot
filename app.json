@@ -1,7 +1,7 @@
 {
   "name": "Tele Upload Bot",
-  "description": "A simple url upload and file to link bot made using telethon.",
-  "logo": "https://i.hizliresim.com/L9wftc.png",
+  "description": "A simple url upload and file to link bot made using telethon library!",
+  "logo": "https://telegra.ph/file/e0269c799bb10bfb87ab3.jpg",
   "keywords": [
     "telegram",
     "uploader"
