@@ -29,6 +29,11 @@
       "value": "",
       "required": true
     },
+    "UAERNAME": {
+      "description": "Username of your bot",
+      "value": "",
+      "required": true
+    },
     "DOWNLOADPATH": {
       "description": "Download path of bot (don't change this value)",
       "value": "Downloads/",
