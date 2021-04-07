@@ -1,5 +1,8 @@
+# Infinity Bots <https://t.me/Infinity_Bots>
+# @ImJanindu
+
 from telethon import TelegramClient, events
-from download_from_url import download_file
+from urldownload import download_file
 from config import BOTTOKEN, APIID, APIHASH, DOWNLOADPATH, USERNAME
 import os
 import time
