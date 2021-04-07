@@ -56,7 +56,7 @@ async def start(event):
     await event.respond('Hello, I am Upload Bot.\n\nI can upload direct links to Telegram and generate download links for files uploaded in telegram.\n\nSend me any direct link and reply it with /upload for upload it to Telegram as file.\n\nSend me any file and reply it with /transfersh or /tmpninja to generate direct download link of that file.\n\nMade with ❤ 🇱🇰 by @Infinity_BOTs.')
     raise events.StopPropagation
 
-@bot.on(events.NewMessage(pattern='/up'))
+@bot.on(events.NewMessage(pattern='/upload'))
 async def up(event):
     if event.reply_to_msg_id:
         start = time.time()
