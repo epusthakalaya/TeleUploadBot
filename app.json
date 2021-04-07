@@ -11,7 +11,7 @@
   "success_url": "https://t.me/JETeleUploadBot",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable environment variables",
+      "description": "Setting this to ANYTHING will enable environment variables (don't change this value)",
       "value": "ANYTHING"
     },
     "APIID": {
