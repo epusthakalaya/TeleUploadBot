@@ -29,7 +29,7 @@
       "value": "",
       "required": true
     },
-    "UAERNAME": {
+    "USERNAME": {
       "description": "Username of your bot",
       "value": "",
       "required": true
