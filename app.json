@@ -1,14 +1,13 @@
 {
   "name": "Tele Upload Bot",
   "description": "A simple url upload and file to link bot made using telethon library!",
-  "logo": "https://telegra.ph/file/e0269c799bb10bfb87ab3.jpg",
+  "logo": "https://telegra.ph/file/69ba8be53ac6bd6baf8be.jpg",
   "keywords": [
     "telegram",
     "uploader"
   ],
-  "repository": "https://github.com/ImJanindu/TeleUploadBot",
-  "website": "https://github.com/ImJanindu/TeleUploadBot",
-  "success_url": "https://t.me/JETeleUploadBot",
+  "repository": "https://github.com/ImJanindu/TeleUploadBot"
+  "success_url": "https://t.me/sluploderbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable environment variables (don't change this value)",
